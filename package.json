@@ -1,6 +1,6 @@
 {
   "name": "hover-preview-js",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "description": "Adds hoverable video and image previews to elements in Vanilla JS.",
   "main": "./dist/hover-preview.min.js",
   "scripts": {
@@ -32,11 +32,11 @@
   "browserslist": "> 0.25%, not dead",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sixem/hover-preview-js.git"
+    "url": "git+https://github.com/stomaskov/hover-preview-js.git"
   },
   "bugs": {
-    "url": "https://github.com/sixem/hover-preview-js/issues"
+    "url": "https://github.com/stomaskov/hover-preview-js/issues"
   },
-  "homepage": "https://github.com/sixem/hover-preview-js",
+  "homepage": "https://github.com/stomaskov/hover-preview-js",
   "dependencies": {}
 }
