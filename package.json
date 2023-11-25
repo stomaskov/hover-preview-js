@@ -1,5 +1,5 @@
 {
-  "name": "hover-preview-js",
+  "name": "@incode/hover-preview",
   "version": "2.0.5",
   "description": "Adds hoverable video and image previews to elements in Vanilla JS.",
   "main": "./dist/hover-preview.min.js",
@@ -37,6 +37,5 @@
   "bugs": {
     "url": "https://github.com/stomaskov/hover-preview-js/issues"
   },
-  "homepage": "https://github.com/stomaskov/hover-preview-js",
-  "dependencies": {}
+  "homepage": "https://github.com/stomaskov/hover-preview-js"
 }
